@@ -8,5 +8,5 @@
 
 ## Screenshots
 ![Login](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/Juluru-Madhuri/ApexPlanet_Task4/blob/main/task4_dashboard.png)
 ![Firebase Users](screenshots/firebase_users.png)
